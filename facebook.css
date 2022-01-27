@@ -1,0 +1,20 @@
+body{
+  background-color:grey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.facebook-container-1{
+    width:50%;
+    background-color:#3a5795;
+}
+.btn{
+    background-color: #657dae;
+    color: white;
+    font-weight: 700;
+}
+.facebook-container-2{
+    width:100%;
+    background-color:#f9fafc;
+    height:650px;
+}
